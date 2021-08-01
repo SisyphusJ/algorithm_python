@@ -6,5 +6,5 @@ if n % 10 == 0:
 else:
     a = n // 10
     b = n % 10
-
-print(a + b)
+result = a + b
+print(result)
