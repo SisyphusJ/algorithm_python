@@ -72,4 +72,4 @@ def gridToMap(x, y, code=1):
     lat = alat * RADDEG
     lon = alon * RADDEG
 
-    return lat, lon
+    return lat
