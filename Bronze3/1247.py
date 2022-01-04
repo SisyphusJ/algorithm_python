@@ -19,6 +19,7 @@ def check(result):
 li1 = inp()
 li2 = inp()
 li3 = inp()
+
 check(sum(li1))
 check(sum(li2))
 check(sum(li3))
